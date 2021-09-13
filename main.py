@@ -22,8 +22,8 @@ last_saved_file = open("LAST_SAVED.txt", "r")
 LAST_SAVED_INDEX = int(last_saved_file.read())
 
 # VARS
-IMAGE_WIDTH = 150
-IMAGE_HEIGHT = 250
+IMAGE_WIDTH = 500
+IMAGE_HEIGHT = 400
 SAVE_PATH = "./storage/"
 INDEX = LAST_SAVED_INDEX + 1
 
