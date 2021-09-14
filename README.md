@@ -4,7 +4,7 @@
 3. `cd` to the cloned dir.
 4. Install deps
 ```shell
-python3 -m pip install opencv-python numpy imutils
+python3 -m pip install opencv-python numpy imutils requests
 ```
 5. Start IP Webcam Server.
 6. Launch script
